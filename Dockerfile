@@ -1,4 +1,4 @@
-FROM apache/airflow:2.6.3-python3.6
+FROM apache/airflow:2.6.3
 
 LABEL version="1.0.0"
 
